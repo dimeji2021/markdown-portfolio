@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+1. Unlearning
+2. Learning
+3. Re-learning
+
+    1. exposure
